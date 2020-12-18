@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "title":"League of Legends",
+        "Developer":"Atsuko Ishizuka",
+        "year":"2009",
+        "plataforms":"PC (Windows y macOS)",
+        "genre":"MOBA",
+        "mode": "Multijugador",
+        "ESRB": "T",
+        "trailer":"https://youtu.be/TFzkbos0oeo"
+    },
+    {
+        "id":2,
+        "title":"Bioshock Infinite",
+        "developer":"Irrational Games",
+        "year":"2013",
+        "plataforms":"PC (Windows, macOS y Linux), Play Station (3 y 4), Xbox (360 y one) y Nintendo Switch",
+        "genre":"FPS",
+        "mode": "Un jugador",
+        "ESRB": "M",
+        "trailer":"https://youtu.be/EsJ55BzIvkE"
+    },
+    {
+        "id":3,
+        "title":"DOOM Eternal",
+        "developer":"id Software",
+        "year":"2007","duration":"1h 20m",
+        "plataforms":"PC (Microsoft Windows), Play Station (4 y 5), Xbox (One y Series X), Nintendo Switch y Stadia",
+        "genre":"FPS",
+        "mode": "Un jugador y Multijugador en línea",
+        "ESRB": "M",
+        "trailer":"https://youtu.be/qgvV4GE8vVA"
+    }
+]
